@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "h"
+echo "Best School"
 =======
-echo "h"
+echo "The school is open!"
 >>>>>>> master
